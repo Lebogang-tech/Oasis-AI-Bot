@@ -1,4 +1,5 @@
 # OasisAI bot
+![image](https://github.com/user-attachments/assets/ae58ccce-43ba-4a3c-a23c-03612a341428)
 
 ## Description
 This script automates registration, create provider and websocket interaction of OasisAI.
