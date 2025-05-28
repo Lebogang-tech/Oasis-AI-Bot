@@ -24,8 +24,3 @@ This script automates registration, create provider and websocket interaction of
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Note
-This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
-
-My reff code if you want to use :) https://r.distribute.ai/recitativo
